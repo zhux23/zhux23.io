@@ -12,7 +12,7 @@ editor: visual
 
 -   W Zhang, **X Zhu**, M He, N Balakrishnan. Reliability test for degradation data based on ranked set sampling. *Quality and Reliability Engineering International*, Under Print.
 
--   **X Zhu**, N Balakrishnan Exact likelihood inference for Laplace distribution based on generalized hybrid censored samples. *Communications in Statistics-Simulation and Computation*, 53, 259-272.
+-   **X Zhu**, N Balakrishnan. Exact likelihood inference for Laplace distribution based on generalized hybrid censored samples. *Communications in Statistics-Simulation and Computation*, 53, 259-272.
 
 ### 2023
 
