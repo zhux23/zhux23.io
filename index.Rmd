@@ -21,7 +21,6 @@ Dr. XXX
 :::
 ::: {.column width="30%"}
 
-#![](http://profile.xjtlu.edu.cn/upload/9g2dtmcssCSIyqBnYR8D.JPG){width=100%}
 
 :::
 ::::::::::::::
