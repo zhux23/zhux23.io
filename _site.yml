@@ -1,10 +1,10 @@
-name: "Dr. Mu He"
+name: "Dr. Xiaojun Zhu"
 output_dir: "docs"
 navbar:
   title: "Homepage"
   right:
     - text: "Research"
-      href: 1.html
+      href: Xiaojun.html
     #- text: "Teaching"
     #  href: teaching.html
     #- text: "Supervison"

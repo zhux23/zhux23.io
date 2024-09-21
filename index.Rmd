@@ -15,22 +15,54 @@ output:
 
 $~$
 
-Dr. XXX
+Dr. Xiaojun Zhu
 
+I am an Associate Professor at Xi'an Jiaotong-Liverpool University. 
+I was awarded the Ph.D. in Mathematics (Statistics) at McMaster University,
+and joined the Xi'an Jiaotong-Liverpool University from 2017.
+
+###  Experience
+- Associate Professor, Department of Financial and Actuarial Mathematics, 2022-present
+- Assistant Professor, Department of Mathematical Sciences, 2017-2022
+- Statistician, Office of Institutional Research and Analysis, McMaster University, Canada, 2015-2017
+
+### Research Interests
+- Complex Data Analysis
+- BioStatistics
+- Reliability 
+- Distribution Theory
 
 :::
 ::: {.column width="30%"}
 
+![](https://scholar.xjtlu.edu.cn/files-asset/35373421/testfilename.jpg?w=320&f=webp){width=100% height=50%}
 
 :::
 ::::::::::::::
 
-### Current Projects
 
-XXX
+### Awards 
+
+- Excellent Youth Programme (PI) (江苏省自然科学基金--优秀青年项目，项目负责人), Jiangsu Science and Technology Programme, Jiangsu Provincial Department of Science and Technology, 2022  
 
 
-$~$
+### Research Projects
+- Principal  Investigator
+  - Excellent Youth (江苏省自然科学基金--优秀青年项目), Jiangsu Science and Technology Programme, Jiangsu Provincial Department of Science and Technology, 2022 
+
+  - Young Scholar Programme  (国家自然科学基金--优秀青年项目), National Natural Science Foundation of China, National Natural Science Foundation of China, 2018
+
+  - Young Scholar Programme  (江苏省自然科学基金--优秀青年项目), Jiangsu Science and Technology Programme, Jiangsu Provincial Department of Science and Technology, 2018
+
+  - Research Enhancement Fund  (西交利物浦大学科研发展基金)，Xi'an Jiaotong-Liverpool University, 2022
+
+  - Research Development Fund  (西交利物浦大学科研发展基金)，Xi'an Jiaotong-Liverpool University, 2017
+- CO-PI/Key Member/Member
+  - Digitalization on Global Supply Chain (外部项目), external grant, 2023
+
+### Teaching Project
+- CO-PI/Key Member/Member
+  - Teaching Development Fund  (西交利物浦大学教学发展基金)，Xi'an Jiaotong-Liverpool University, 2017
 
 
 
@@ -40,7 +72,7 @@ $~$
 |Contact Information:                                                              |
 |:--------------------------------------------|------------------------------------|
 | MB446                                       | Tel: +86 (0512)8897 4783           |
-| Department of Foundational Mathematics      |                                    |
+| Department of Financial And Actuarial Mathematics     |                                    |
 | Xi'an Jiaotong-Liverpool University         | Email: Xiaojun.Zhu@xjtlu.edu.cn    |
 | Suzhou, JiangSu, China                      |                                    |
 
