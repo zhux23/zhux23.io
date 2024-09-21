@@ -1,0 +1,50 @@
+---
+title: ""
+classoption:
+- twocolumn
+output:
+  html_document:
+    toc: false
+---
+
+
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+
+
+$~$
+
+Dr. XXX
+
+
+:::
+::: {.column width="30%"}
+
+![](http://profile.xjtlu.edu.cn/upload/9g2dtmcssCSIyqBnYR8D.JPG){width=100%}
+
+:::
+::::::::::::::
+
+### Current Projects
+
+XXX
+
+
+$~$
+
+
+
+
+$~$
+
+|Contact Information:                                                              |
+|:--------------------------------------------|------------------------------------|
+| MB446                                       | Tel: +86 (0512)8897 4783           |
+| Department of Foundational Mathematics      |                                    |
+| Xi'an Jiaotong-Liverpool University         | Email: Xiaojun.Zhu@xjtlu.edu.cn    |
+| Suzhou, JiangSu, China                      |                                    |
+
+$~$
+
+![](https://www.xjtlu.edu.cn/wp-content/uploads/2022/09/campus-blossom-2.1f5be76d.jpg){width=100% height=50%}
