@@ -1,0 +1,35 @@
+---
+title: "Publications"
+format: html
+editor: visual
+---
+
+### 2024
+
+-   H Jiang, Z Zhang, **X Zhu**. Stochastic mortality model with respect to mixed fractional Poisson process: Calibration and empirical analysis of long-range dependence in actuarial valuation. *Insurance: Mathematics and Economics*, 119, 64-92.
+
+-   W Sun, **X Zhu**, Z Zhang, N Balakrishnan. Bayesian inference for Laplace distribution based on complete and censored samples with illustrations. *Journal of Applied Statistics*, Under Print.
+
+-   W Zhang, **X Zhu**, M He, N Balakrishnan. Reliability test for degradation data based on ranked set sampling. *Quality and Reliability Engineering International*, Under Print.
+
+-   **X Zhu**, N Balakrishnan Exact likelihood inference for Laplace distribution based on generalized hybrid censored samples. *Communications in Statistics-Simulation and Computation*, 53, 259-272.
+
+### 2023
+
+-   N Balakrishnan, D Mitra, **X Zhu**. Inference for Coherent Systems with Weibull Components Under a Simple Step-Stress Model. *Springer Handbook of Engineering Statistics*, 703-731.
+
+-   **X Zhu**, N Balakrishnan. Non-parametric inference based on reliability life-test of non-identical coherent systems with application to warranty time. *Reliability Engineering & System Safety*, 232, 109090.
+
+-   W Zhang, W Lei, **X Zhu**. A novel model of the continual reassessment method in Phase I trial. *Scientific Reports* 13, 5047.
+
+### 2022
+
+-   **X Zhu**, N Balakrishnan, HY So. Exact one-and two-sample likelihood ratio tests based on time-constrained life-tests from exponential distributions. *Methodology and Computing in Applied Probability*, 24, 2009-2028.
+
+-   **X Zhu**, N Balakrishnan. One-shot device test data analysis using non-parametric and semi-parametric inferential methods and applications. *Reliability Engineering & System Safety*, 221, 108319.
+
+-   T Zhang, **X Zhu**, D Xie, F Su, N Balakrishnan. Test of equality of proportional hazard models with jointly censored data. *International Journal of Data Science*, 7, 1-21.
+
+### 2021
+
+- **X Zhu**, K Liu, M He, N Balakrishnan. Reliability estimation for one-shot devices under cyclic accelerated life-testing. *Reliability Engineering & System Safety*, 212, 107595.

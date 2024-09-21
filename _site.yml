@@ -6,7 +6,7 @@ navbar:
     - text: "Teaching"
       href: Xiaojun.html
     - text: "Research"
-      href: teaching.html
+      href: Research.html
     #- text: "Supervison"
     #  href: super.html
     #- text: "blog"
