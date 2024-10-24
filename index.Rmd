@@ -40,7 +40,7 @@ I am an Associate Professor at Xi'an Jiaotong-Liverpool University. I was awarde
 
 ### Research Projects
 
--   Principal Investigator
+-   Principal Investigator (项目负责人)
     -   Excellent Youth (江苏省自然科学基金--优秀青年项目), Jiangsu Science and Technology Programme, Jiangsu Provincial Department of Science and Technology, 2022
 
     -   Young Scholar Programme (国家自然科学基金--青年项目), National Natural Science Foundation of China, National Natural Science Foundation of China, 2018
@@ -50,7 +50,7 @@ I am an Associate Professor at Xi'an Jiaotong-Liverpool University. I was awarde
     -   Research Enhancement Fund (西交利物浦大学科研发展基金)，Xi'an Jiaotong-Liverpool University, 2022
 
     -   Research Development Fund (西交利物浦大学科研发展基金)，Xi'an Jiaotong-Liverpool University, 2017
--   CO-PI/Key Member/Member
+-   CO-PI/Key Member/Member (项目参与人)
     -   Digitalization on Global Supply Chain (外部项目), external grant, 2023
 
 ### Teaching Project
@@ -62,7 +62,7 @@ $~$
 
 | Contact Information:                              |                                                                             |
 |:---------------------------------------|--------------------------------|
-| MB446                                             | Tel: +86 (0512)8897 4783                                                    |
+| MB446                                             | Tel: +86 (0512)8188 4783                                                    |
 | Department of Financial And Actuarial Mathematics |                                                                             |
 | Xi'an Jiaotong-Liverpool University               | Email: [Xiaojun.Zhu\@xjtlu.edu.cn](mailto:Xiaojun.Zhu@xjtlu.edu.cn){.email} |
 | Suzhou, JiangSu, China                            |                                                                             |
