@@ -9,7 +9,7 @@ output:
 
 ::: columns
 ::: {.column width="70%"}
-$~$
+
 
 # Dr. Xiaojun Zhu
 
