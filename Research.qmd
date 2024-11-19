@@ -5,6 +5,7 @@ editor: visual
 ---
 
 ### 2024
+-   W Zhang, **X Zhu**, M He, N Balakrishnan. Reliability Analysis of Cyclic Accelerated Life Test Data Using Log-Location-Scale Family of Distributions under Censoring with Application to Solder Joint Data. *IEEE Transactions on Reliability*, Under Print.
 
 -   H Jiang, Z Zhang, **X Zhu**. Stochastic mortality model with respect to mixed fractional Poisson process: Calibration and empirical analysis of long-range dependence in actuarial valuation. *Insurance: Mathematics and Economics*, 119, 64-92.
 
