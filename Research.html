@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications</title>
+<title>Publications (# Corresponding Author)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,35 @@ ul.task-list li input[type="checkbox"] {
 <link href="Research_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="Research_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -45,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications</h1>
+<h1 class="title">Publications (# Corresponding Author)</h1>
 </div>
 
 
@@ -65,26 +94,28 @@ ul.task-list li input[type="checkbox"] {
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">2024</h3>
 <ul>
-<li><p>W Zhang, <strong>X Zhu</strong>, M He, N Balakrishnan. Reliability Analysis of Cyclic Accelerated Life Test Data Using Log-Location-Scale Family of Distributions under Censoring with Application to Solder Joint Data. <em>IEEE Transactions on Reliability</em>, Under Print.</p></li>
+<li><p>J Gu, Y Bao, Y Li, L Hua, X Deng, Y Zhang, <strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, J Ran. Dietary N-6 Polyunsaturated Fatty Acid Intake and Brain Health in Middle-Aged and Elderly Adults. <em>Nutrients</em>, 16, 4272.</p></li>
+<li><p>W Zhang, <strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, M He, N Balakrishnan. Reliability Analysis of Cyclic Accelerated Life Test Data Using Log-Location-Scale Family of Distributions under Censoring with Application to Solder Joint Data. <em>IEEE Transactions on Reliability</em>, Under Print.</p></li>
 <li><p>H Jiang, Z Zhang, <strong>X Zhu</strong>. Stochastic mortality model with respect to mixed fractional Poisson process: Calibration and empirical analysis of long-range dependence in actuarial valuation. <em>Insurance: Mathematics and Economics</em>, 119, 64-92.</p></li>
-<li><p>W Sun, <strong>X Zhu</strong>, Z Zhang, N Balakrishnan. Bayesian inference for Laplace distribution based on complete and censored samples with illustrations. <em>Journal of Applied Statistics</em>, Under Print.</p></li>
-<li><p>W Zhang, <strong>X Zhu</strong>, M He, N Balakrishnan. Reliability test for degradation data based on ranked set sampling. <em>Quality and Reliability Engineering International</em>, Under Print.</p></li>
-<li><p><strong>X Zhu</strong>, N Balakrishnan. Exact likelihood inference for Laplace distribution based on generalized hybrid censored samples. <em>Communications in Statistics-Simulation and Computation</em>, 53, 259-272.</p></li>
+<li><p>W Sun, <strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, Z Zhang, N Balakrishnan. Bayesian inference for Laplace distribution based on complete and censored samples with illustrations. <em>Journal of Applied Statistics</em>, Under Print.</p></li>
+<li><p>W Zhang, <strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, M He, N Balakrishnan. Reliability test for degradation data based on ranked set sampling. <em>Quality and Reliability Engineering International</em>, Under Print.</p></li>
+<li><p><strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, N Balakrishnan. Exact likelihood inference for Laplace distribution based on generalized hybrid censored samples. <em>Communications in Statistics-Simulation and Computation</em>, 53, 259-272.</p></li>
 </ul>
 </section>
 <section id="section-1" class="level3">
 <h3 class="anchored" data-anchor-id="section-1">2023</h3>
 <ul>
 <li><p>N Balakrishnan, D Mitra, <strong>X Zhu</strong>. Inference for Coherent Systems with Weibull Components Under a Simple Step-Stress Model. <em>Springer Handbook of Engineering Statistics</em>, 703-731.</p></li>
-<li><p><strong>X Zhu</strong>, N Balakrishnan. Non-parametric inference based on reliability life-test of non-identical coherent systems with application to warranty time. <em>Reliability Engineering &amp; System Safety</em>, 232, 109090.</p></li>
+<li><p><strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, N Balakrishnan. Non-parametric inference based on reliability life-test of non-identical coherent systems with application to warranty time. <em>Reliability Engineering &amp; System Safety</em>, 232, 109090.</p></li>
 <li><p>W Zhang, W Lei, <strong>X Zhu</strong>. A novel model of the continual reassessment method in Phase I trial. <em>Scientific Reports</em> 13, 5047.</p></li>
 </ul>
 </section>
 <section id="section-2" class="level3">
 <h3 class="anchored" data-anchor-id="section-2">2022</h3>
 <ul>
-<li><p><strong>X Zhu</strong>, N Balakrishnan, HY So. Exact one-and two-sample likelihood ratio tests based on time-constrained life-tests from exponential distributions. <em>Methodology and Computing in Applied Probability</em>, 24, 2009-2028.</p></li>
-<li><p><strong>X Zhu</strong>, N Balakrishnan. One-shot device test data analysis using non-parametric and semi-parametric inferential methods and applications. <em>Reliability Engineering &amp; System Safety</em>, 221, 108319.</p></li>
+<li><p><strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, N Balakrishnan. One-shot device test data analysis using non-parametric and semi-parametric inferential methods and applications. <em>Reliability Engineering &amp; System Safety</em>, 221, 108319.</p></li>
+<li><p><strong>X Zhu</strong>, K Liu. Reliability of one-shot device with generalized gamma lifetime under cyclic accelerated life-test. <em>Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability</em>, 236, 1007-1023.</p></li>
+<li><p><strong>X Zhu</strong><span class="math inline">\(^\#\)</span>, N Balakrishnan, HY So. Exact one-and two-sample likelihood ratio tests based on time-constrained life-tests from exponential distributions. <em>Methodology and Computing in Applied Probability</em>, 24, 2009-2028.</p></li>
 <li><p>T Zhang, <strong>X Zhu</strong>, D Xie, F Su, N Balakrishnan. Test of equality of proportional hazard models with jointly censored data. <em>International Journal of Data Science</em>, 7, 1-21.</p></li>
 </ul>
 </section>
