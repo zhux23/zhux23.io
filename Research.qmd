@@ -25,7 +25,7 @@ Dietary N-6 Polyunsaturated Fatty Acid Intake and Brain Health in Middle-Aged an
 
 -   **X Zhu**$^\#$, N Balakrishnan. Non-parametric inference based on reliability life-test of non-identical coherent systems with application to warranty time. *Reliability Engineering & System Safety*, 232, 109090.
 
--   W Zhang, W Lei, **X Zhu**. A novel model of the continual reassessment method in Phase I trial. *Scientific Reports*13, 5047.
+-   W Zhang, W Lei, **X Zhu**. A novel model of the continual reassessment method in Phase I trial. *Scientific Reports*, 13, 5047.
 
 ### 2022
 
